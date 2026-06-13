@@ -50,44 +50,44 @@ Made with Electron.
 
 ###### Featured
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 186,179 | 🐛 18,411 | 🌐 TypeScript | 📅 2026-06-12 - Cross-platform IDE.
-* [Hyper](https://github.com/zeit/hyper) ⭐ 44,597 | 🐛 1,043 | 🌐 TypeScript | 📅 2026-06-08 - Terminal.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 186,227 | 🐛 18,423 | 🌐 TypeScript | 📅 2026-06-13 - Cross-platform IDE.
+* [Hyper](https://github.com/zeit/hyper) ⭐ 44,598 | 🐛 1,043 | 🌐 TypeScript | 📅 2026-06-08 - Terminal.
 * [WebTorrent](https://github.com/feross/webtorrent-app) ⭐ 10,070 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-11 - Streaming torrent client.
-* [Min](https://github.com/minbrowser/min) ⭐ 9,018 | 🐛 603 | 🌐 JavaScript | 📅 2026-05-31 - Minimal web browser.
+* [Min](https://github.com/minbrowser/min) ⭐ 9,020 | 🐛 603 | 🌐 JavaScript | 📅 2026-05-31 - Minimal web browser.
 
 ###### Other
 
-* [Mark Text](https://github.com/marktext/marktext) ⭐ 57,258 | 🐛 1,081 | 🌐 TypeScript | 📅 2026-06-12 - Real-time preview Markdown editor.
-* [Motrix](https://github.com/agalwood/Motrix) ⭐ 51,939 | 🐛 779 | 🌐 JavaScript | 📅 2024-07-11 - Download manager.
-* [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 41,219 | 🐛 254 | 🌐 TypeScript | 📅 2026-06-11 - Lossless video trimming & cutting.
-* [Insomnia](https://github.com/getinsomnia/insomnia) ⭐ 38,479 | 🐛 852 | 🌐 TypeScript | 📅 2026-06-12 - Create and manage HTTP requests.
-* [Etcher](https://github.com/resin-io/etcher) ⭐ 33,856 | 🐛 676 | 🌐 TypeScript | 📅 2026-06-02 - Flash OS images to SD cards and USB drives.
-* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,064 | 🐛 18 | 🌐 JavaScript | 📅 2026-06-10 - Visualizer for deep learning and machine learning models.
+* [Mark Text](https://github.com/marktext/marktext) ⭐ 57,299 | 🐛 1,088 | 🌐 TypeScript | 📅 2026-06-13 - Real-time preview Markdown editor.
+* [Motrix](https://github.com/agalwood/Motrix) ⭐ 51,941 | 🐛 779 | 🌐 JavaScript | 📅 2024-07-11 - Download manager.
+* [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 41,258 | 🐛 255 | 🌐 TypeScript | 📅 2026-06-12 - Lossless video trimming & cutting.
+* [Insomnia](https://github.com/getinsomnia/insomnia) ⭐ 38,491 | 🐛 854 | 🌐 TypeScript | 📅 2026-06-12 - Create and manage HTTP requests.
+* [Etcher](https://github.com/resin-io/etcher) ⭐ 33,860 | 🐛 676 | 🌐 TypeScript | 📅 2026-06-02 - Flash OS images to SD cards and USB drives.
+* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,068 | 🐛 18 | 🌐 JavaScript | 📅 2026-06-10 - Visualizer for deep learning and machine learning models.
 * [Notable](https://github.com/fabiospampinato/notable) ⭐ 23,487 | 🐛 730 | 📅 2024-06-21 - Markdown-based note-taking.
-* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 22,999 | 🐛 1,113 | 🌐 TypeScript | 📅 2026-06-11 - Cross-platform SQL editor and database manager.
-* [Wave Terminal](https://github.com/wavetermdev/waveterm) ⭐ 21,206 | 🐛 490 | 🌐 Go | 📅 2026-06-10 - Open-source terminal with AI integration.
-* [Kap](https://github.com/wulkano/kap) ⭐ 19,246 | 🐛 257 | 🌐 TypeScript | 📅 2024-11-12 - Screen recorder with GIF support.
-* [Nuclear](https://github.com/nukeop/nuclear) ⭐ 17,784 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-10 - Music player that streams from free sources.
-* [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,593 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-11 - Extensible email client. (Fork of Nylas Mail)
+* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,003 | 🐛 1,110 | 🌐 TypeScript | 📅 2026-06-13 - Cross-platform SQL editor and database manager.
+* [Wave Terminal](https://github.com/wavetermdev/waveterm) ⭐ 21,231 | 🐛 491 | 🌐 Go | 📅 2026-06-10 - Open-source terminal with AI integration.
+* [Kap](https://github.com/wulkano/kap) ⭐ 19,250 | 🐛 257 | 🌐 TypeScript | 📅 2024-11-12 - Screen recorder with GIF support.
+* [Nuclear](https://github.com/nukeop/nuclear) ⭐ 17,789 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-10 - Music player that streams from free sources.
+* [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,596 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-12 - Extensible email client. (Fork of Nylas Mail)
 * [Boostnote](https://github.com/BoostIO/Boostnote) ⚠️ Archived - Markdown note & code snippet app for developers.
-* [Signal Desktop](https://github.com/signalapp/Signal-Desktop) ⭐ 16,342 | 🐛 896 | 🌐 TypeScript | 📅 2026-06-10 - Companion desktop app for Signal mobile app.
+* [Signal Desktop](https://github.com/signalapp/Signal-Desktop) ⭐ 16,347 | 🐛 900 | 🌐 TypeScript | 📅 2026-06-10 - Companion desktop app for Signal mobile app.
 * [KeeWeb](https://github.com/keeweb/keeweb) ⭐ 12,941 | 🐛 438 | 🌐 HTML | 📅 2026-05-08 - Unofficial KeePass app.
 * [Medis](https://github.com/luin/medis) ⭐ 11,733 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-21 - Redis database management.
 * [Light Table](https://github.com/LightTable/LightTable) ⚠️ Archived - Code editor with instant feedback.
-* [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 11,569 | 🐛 815 | 🌐 TypeScript | 📅 2026-06-10 - Alternative Epic games launcher.
+* [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 11,575 | 🐛 821 | 🌐 TypeScript | 📅 2026-06-12 - Alternative Epic games launcher.
 * [Stacer](https://github.com/oguzhaninan/Stacer) ⭐ 9,289 | 🐛 173 | 🌐 C++ | 📅 2024-02-10 - Ubuntu system optimizer.
 * [Cerebro](https://github.com/KELiON/cerebro) ⭐ 8,539 | 🐛 75 | 🌐 JavaScript | 📅 2026-06-10 - Launcher with inline previews.
 * [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ⭐ 8,202 | 🐛 261 | 🌐 JavaScript | 📅 2023-01-04 - Unofficial Google Play Music app.
-* [Caprine](https://github.com/sindresorhus/caprine) ⭐ 7,367 | 🐛 291 | 🌐 TypeScript | 📅 2026-01-02 - Unofficial Facebook Messenger app.
+* [Caprine](https://github.com/sindresorhus/caprine) ⭐ 7,369 | 🐛 291 | 🌐 TypeScript | 📅 2026-01-02 - Unofficial Facebook Messenger app.
 * [Beaker](https://github.com/beakerbrowser/beaker) ⚠️ Archived - Browser with peer-to-peer web protocols.
-* [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) ⭐ 6,058 | 🐛 232 | 🌐 TypeScript | 📅 2026-06-11 - Modern file manager.
-* [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,269 | 🐛 108 | 🌐 Rust | 📅 2026-06-09 - Pomodoro timer.
-* [Gitify](https://github.com/manosim/gitify) ⭐ 5,267 | 🐛 16 | 🌐 TypeScript | 📅 2026-06-12 - GitHub notifications in your menubar.
-* [Simplenote](https://github.com/Automattic/simplenote-electron) ⭐ 5,237 | 🐛 269 | 🌐 TypeScript | 📅 2026-06-12 - Note keeper.
-* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 4,939 | 🐛 105 | 🌐 TypeScript | 📅 2026-05-22 - Client for MQTT, which is a lightweight messaging protocol.
+* [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) ⭐ 6,118 | 🐛 233 | 🌐 TypeScript | 📅 2026-06-11 - Modern file manager.
+* [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,270 | 🐛 108 | 🌐 Rust | 📅 2026-06-09 - Pomodoro timer.
+* [Gitify](https://github.com/manosim/gitify) ⭐ 5,268 | 🐛 16 | 🌐 TypeScript | 📅 2026-06-12 - GitHub notifications in your menubar.
+* [Simplenote](https://github.com/Automattic/simplenote-electron) ⭐ 5,238 | 🐛 269 | 🌐 TypeScript | 📅 2026-06-12 - Note keeper.
+* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 4,940 | 🐛 105 | 🌐 TypeScript | 📅 2026-05-22 - Client for MQTT, which is a lightweight messaging protocol.
 * [Git-it](https://github.com/jlord/git-it-electron) ⭐ 4,879 | 🐛 138 | 🌐 Perl | 📅 2024-04-10 - Teaches you Git and GitHub.
 * [Sqlectron](https://github.com/sqlectron/sqlectron-gui) ⭐ 4,753 | 🐛 145 | 🌐 TypeScript | 📅 2026-06-12 - SQL client.
-* [Franz](https://github.com/meetfranz/franz) ⭐ 4,689 | 🐛 390 | 🌐 JavaScript | 📅 2025-09-24 - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+* [Franz](https://github.com/meetfranz/franz) ⭐ 4,690 | 🐛 390 | 🌐 JavaScript | 📅 2026-06-12 - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 * [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) ⚠️ Archived - Password manager.
 * [Inpad](https://github.com/sarah-seo/Inpad) ⚠️ Archived - Notes app with GitHub-flavored Markdown.
 * [YakYak](https://github.com/yakyak/yakyak) ⭐ 3,760 | 🐛 107 | 🌐 CoffeeScript | 📅 2025-09-30 - Unofficial Google Hangouts app.
@@ -95,18 +95,18 @@ Made with Electron.
 * [Tusk](https://github.com/champloohq/tusk) ⭐ 3,158 | 🐛 189 | 🌐 JavaScript | 📅 2026-04-09 - Unofficial Evernote app.
 * [Extraterm](https://github.com/sedwards2009/extraterm) ⭐ 2,819 | 🐛 134 | 🌐 TypeScript | 📅 2026-06-05 - Terminal.
 * [SmartMirror](https://github.com/evancohen/smart-mirror) ⭐ 2,815 | 🐛 19 | 🌐 JavaScript | 📅 2024-07-02 - Voice controlled smart mirror.
-* [Sabaki](https://github.com/SabakiHQ/Sabaki) ⭐ 2,710 | 🐛 158 | 🌐 JavaScript | 📅 2026-05-08 - Go/Baduk/Weiqi board.
+* [Sabaki](https://github.com/SabakiHQ/Sabaki) ⭐ 2,712 | 🐛 159 | 🌐 JavaScript | 📅 2026-05-08 - Go/Baduk/Weiqi board.
 * [Abricotine](https://github.com/brrd/Abricotine) ⚠️ Archived - Markdown editor with inline preview.
-* [ExifCleaner](https://github.com/szTheory/exifcleaner) ⭐ 2,477 | 🐛 51 | 🌐 Perl | 📅 2026-04-03 - Clean image metadata with drag and drop.
-* [Mattermost](https://github.com/mattermost/desktop) ⭐ 2,242 | 🐛 39 | 🌐 TypeScript | 📅 2026-06-12 - Mattermost client.
-* [Museeks](https://github.com/KeitIG/museeks) ⭐ 2,122 | 🐛 70 | 🌐 TypeScript | 📅 2026-06-07 - Music player.
+* [ExifCleaner](https://github.com/szTheory/exifcleaner) ⭐ 2,478 | 🐛 51 | 🌐 Perl | 📅 2026-04-03 - Clean image metadata with drag and drop.
+* [Mattermost](https://github.com/mattermost/desktop) ⭐ 2,242 | 🐛 40 | 🌐 TypeScript | 📅 2026-06-12 - Mattermost client.
+* [Museeks](https://github.com/KeitIG/museeks) ⭐ 2,123 | 🐛 70 | 🌐 TypeScript | 📅 2026-06-07 - Music player.
 * [massCode](https://github.com/antonreshetov/massCode) ⭐ 2,021 | 🐛 68 | 🌐 Vue | 📅 2022-05-04 - Code snippet manager for developers.
 * [Browserosaurus](https://github.com/will-stone/browserosaurus) ⚠️ Archived - Browser prompter for macOS.
 * [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) ⭐ 1,579 | 🐛 19 | 🌐 JavaScript | 📅 2022-03-29 - Chrome DevTools packaged as an app.
 * [Leanote](https://github.com/leanote/desktop-app) ⭐ 1,559 | 🐛 191 | 🌐 JavaScript | 📅 2024-01-12 - Cloud notepad.
 * [SpaceRadar](https://github.com/zz85/space-radar) ⭐ 1,439 | 🐛 19 | 🌐 TypeScript | 📅 2026-05-28 - Interactive disk space and memory visualization.
 * [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) ⚠️ Archived - Cross-platform code editor.
-* [Wire](https://github.com/wireapp/wire-desktop) ⭐ 1,124 | 🐛 128 | 🌐 TypeScript | 📅 2026-06-11 - Messenger and calling app.
+* [Wire](https://github.com/wireapp/wire-desktop) ⭐ 1,124 | 🐛 129 | 🌐 TypeScript | 📅 2026-06-12 - Messenger and calling app.
 * [Buka](https://github.com/oguzhaninan/Buka) ⭐ 1,120 | 🐛 38 | 🌐 JavaScript | 📅 2023-02-04 - E-book management.
 * [Tockler](https://github.com/MayGo/tockler) ⭐ 1,063 | 🐛 37 | 🌐 TypeScript | 📅 2026-04-08 - Tracks your time.
 * [Gmail Desktop](https://github.com/timche/gmail-desktop) ⭐ 1,019 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-09 - Unofficial Gmail app.
@@ -126,7 +126,7 @@ Made with Electron.
 * [Ostara](https://github.com/krud-dev/ostara) ⭐ 340 | 🐛 46 | 🌐 TypeScript | 📅 2026-06-10 - Monitor and interact with Spring Boot apps via Actuator.
 * [Yana](https://github.com/lukasbach/yana) ⭐ 285 | 🐛 23 | 🌐 TypeScript | 📅 2024-07-22 - Notebook app with rich-text notes, nested note organization and global search.
 * [Before Dawn](https://github.com/muffinista/before-dawn) ⭐ 213 | 🐛 20 | 🌐 JavaScript | 📅 2026-06-09 - Screensaver tool.
-* [Proton](https://github.com/steventhanna/proton) ⭐ 170 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-06 - Markdown editor with live preview.
+* [Proton](https://github.com/steventhanna/proton) ⭐ 171 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-06 - Markdown editor with live preview.
 * [VIR](https://github.com/TommyX12/VIR) ⭐ 162 | 🐛 4 | 🌐 TypeScript | 📅 2021-12-08 - Intelligent time manager with automatic planning.
 * [Mouseless](https://github.com/ueberdosis/mouseless) ⚠️ Archived - Keyboard shortcut training and look-up.
 * [Glyphfinder](https://github.com/ueberdosis/glyphfinder) ⚠️ Archived - Unicode character search.
@@ -195,36 +195,36 @@ Made with Electron.
 
 ## Boilerplates
 
-* [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,243 | 🐛 192 | 🌐 TypeScript | 📅 2026-04-29 - Boilerplate based on React and webpack.
+* [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) ⭐ 24,244 | 🐛 192 | 🌐 TypeScript | 📅 2026-04-29 - Boilerplate based on React and webpack.
 * [electron-quick-start](https://github.com/electron/electron-quick-start) ⭐ 11,445 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-12 - Clone the repo to try a simple app.
 * [angular-electron](https://github.com/maximegris/angular-electron) ⭐ 5,727 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-09 - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 * [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) ⚠️ Archived - Comprehensive boilerplate which even generates installers - by [szwacz](https://github.com/szwacz).
 * [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) ⭐ 2,990 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-08 - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
-* [secure-electron-template](https://github.com/reZach/secure-electron-template) ⭐ 1,712 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-10 - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
+* [secure-electron-template](https://github.com/reZach/secure-electron-template) ⭐ 1,713 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-10 - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 * [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) ⚠️ Archived - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
-* [bozon](https://github.com/railsware/bozon) ⭐ 758 | 🐛 12 | 🌐 JavaScript | 📅 2023-10-06 - Scaffold, run, test, and package your app.
+* [bozon](https://github.com/railsware/bozon) ⭐ 759 | 🐛 12 | 🌐 JavaScript | 📅 2023-10-06 - Scaffold, run, test, and package your app.
 * [generator-electron](https://github.com/sindresorhus/generator-electron) ⚠️ Archived - Scaffold out an app boilerplate.
 
 ## Tools
 
 ### For Electron
 
-* [RxDB](https://github.com/pubkey/rxdb) ⭐ 23,229 | 🐛 25 | 🌐 TypeScript | 📅 2026-06-11 - A realtime NoSQL database.
-* [got](https://github.com/sindresorhus/got) ⭐ 14,915 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-07 - Simplified HTTP requests.
-* [electron-builder](https://github.com/electron-userland/electron-builder) ⭐ 14,586 | 🐛 66 | 🌐 TypeScript | 📅 2026-06-12 - Create installers.
-* [NeDB](https://github.com/louischatriot/nedb) ⭐ 13,543 | 🐛 209 | 🌐 JavaScript | 📅 2025-05-15 - Embedded persistent or in-memory database.
+* [RxDB](https://github.com/pubkey/rxdb) ⭐ 23,231 | 🐛 25 | 🌐 TypeScript | 📅 2026-06-13 - A realtime NoSQL database.
+* [got](https://github.com/sindresorhus/got) ⭐ 14,916 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-07 - Simplified HTTP requests.
+* [electron-builder](https://github.com/electron-userland/electron-builder) ⭐ 14,589 | 🐛 67 | 🌐 TypeScript | 📅 2026-06-12 - Create installers.
+* [NeDB](https://github.com/louischatriot/nedb) ⭐ 13,542 | 🐛 209 | 🌐 JavaScript | 📅 2025-05-15 - Embedded persistent or in-memory database.
 * [electron-vite](https://github.com/alex8088/electron-vite) ⭐ 5,481 | 🐛 81 | 🌐 TypeScript | 📅 2026-04-17 - Fast and easy-to-use build tool integrated with Vite.
-* [electron-store](https://github.com/sindresorhus/electron-store) ⭐ 4,997 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-12 - Save and load data like user preferences, app state, cache, etc.
+* [electron-store](https://github.com/sindresorhus/electron-store) ⭐ 4,998 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-12 - Save and load data like user preferences, app state, cache, etc.
 * [electron-release-server](https://github.com/ArekSredzki/electron-release-server) ⭐ 2,207 | 🐛 67 | 🌐 JavaScript | 📅 2024-04-22 - Self-hosted release server with front-end & auto-updater support.
-* [debugtron](https://github.com/pd4d10/debugtron) ⭐ 1,727 | 🐛 27 | 🌐 TypeScript | 📅 2025-11-28 - Debug in-production Electron-based apps.
+* [debugtron](https://github.com/pd4d10/debugtron) ⭐ 1,728 | 🐛 27 | 🌐 TypeScript | 📅 2025-11-28 - Debug in-production Electron-based apps.
 * [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) ⭐ 1,471 | 🐛 24 | 🌐 JavaScript | 📅 2026-03-19 - Extensible context menu.
-* [electron-log](https://github.com/megahertz/electron-log) ⭐ 1,467 | 🐛 17 | 🌐 JavaScript | 📅 2026-05-14 - Simple logging.
+* [electron-log](https://github.com/megahertz/electron-log) ⭐ 1,468 | 🐛 17 | 🌐 JavaScript | 📅 2026-05-14 - Simple logging.
 * [electron-util](https://github.com/sindresorhus/electron-util) ⭐ 1,337 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-09 - Useful utilities for developing apps and modules.
 * [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) ⭐ 1,215 | 🐛 14 | 🌐 TypeScript | 📅 2025-11-15 - Install DevTools extensions from the Chrome Web Store.
 * [electron-dl](https://github.com/sindresorhus/electron-dl) ⭐ 1,208 | 🐛 55 | 🌐 JavaScript | 📅 2025-09-11 - Simplified file downloads.
 * [electron-rebuild](https://github.com/electron/electron-rebuild) ⭐ 1,119 | 🐛 112 | 🌐 TypeScript | 📅 2026-06-01 - Rebuild native Node.js modules against the currently installed Electron version.
 * [electronegativity](https://github.com/doyensec/electronegativity) ⭐ 1,045 | 🐛 14 | 🌐 JavaScript | 📅 2025-08-23 - Identify misconfigurations and security anti-patterns.
-* [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) ⭐ 978 | 🐛 32 | 🌐 TypeScript | 📅 2026-06-11 - Block ads and trackers.
+* [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) ⭐ 978 | 🐛 33 | 🌐 TypeScript | 📅 2026-06-13 - Block ads and trackers.
 * [ember-electron](https://github.com/felixrieseberg/ember-electron) ⭐ 801 | 🐛 22 | 🌐 JavaScript | 📅 2025-10-21 - Build, test, and package Ember apps.
 * [electron-debug](https://github.com/sindresorhus/electron-debug) ⭐ 778 | 🐛 6 | 🌐 JavaScript | 📅 2024-10-14 - Adds useful debug features.
 * [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) ⭐ 744 | 🐛 6 | 🌐 JavaScript | 📅 2022-07-20 - Simplified IPC communication.
@@ -260,7 +260,7 @@ Made with Electron.
 ### Using Electron
 
 * [nativefier](https://github.com/jiahaog/nativefier) ⚠️ Archived - Create an app of any website.
-* [Reactotron](https://github.com/reactotron/reactotron) ⭐ 15,564 | 🐛 154 | 🌐 TypeScript | 📅 2026-05-28 - Inspect your React and React Native apps.
+* [Reactotron](https://github.com/reactotron/reactotron) ⭐ 15,565 | 🐛 154 | 🌐 TypeScript | 📅 2026-05-28 - Inspect your React and React Native apps.
 * [electron-pdf](https://github.com/fraserxu/electron-pdf) ⭐ 1,290 | 🐛 61 | 🌐 JavaScript | 📅 2026-02-12 - Generate PDF from URL, HTML, or Markdown files on the command-line.
 * [electron-mocha](https://github.com/jprichardson/electron-mocha) ⭐ 344 | 🐛 8 | 🌐 JavaScript | 📅 2025-11-19 - Run Mocha tests in Electron.
 * [jest-electron](https://github.com/hustcc/jest-electron) ⭐ 156 | 🐛 12 | 🌐 TypeScript | 📅 2022-07-01 - Run and debug Jest unit tests in a browser environment.
@@ -268,7 +268,7 @@ Made with Electron.
 
 ## Components
 
-* [React Desktop](https://github.com/gabrielbull/react-desktop) ⭐ 9,492 | 🐛 32 | 🌐 JavaScript | 📅 2023-07-01 - UI toolkit for macOS and Windows built with React.
+* [React Desktop](https://github.com/gabrielbull/react-desktop) ⭐ 9,493 | 🐛 32 | 🌐 JavaScript | 📅 2023-07-01 - UI toolkit for macOS and Windows built with React.
 * [menubar](https://github.com/maxogden/menubar) ⭐ 6,780 | 🐛 75 | 🌐 TypeScript | 📅 2025-10-10 - Menubar app framework.
 * [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) ⭐ 1,791 | 🐛 10 | 🌐 JavaScript | 📅 2023-12-28 - Chrome like tabs.
 * [Xel](https://xel-toolkit.org) - Widget toolkit for building native-like apps.
@@ -340,5 +340,5 @@ Contributions welcome! Read the [contribution guidelines](origin/contributing.md
 
 ## Related
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 65,931 | 🐛 26 | 📅 2026-05-03
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 65,938 | 🐛 26 | 📅 2026-05-03
 * [awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking) ⭐ 676 | 🐛 0 | 📅 2025-05-14
